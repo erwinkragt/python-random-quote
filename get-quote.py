@@ -1,5 +1,7 @@
 import random
 
+# Some comment
+
 def primary():
   print("Keep it logically awesome.")
 
