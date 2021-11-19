@@ -1,3 +1,5 @@
+[![Pylint](https://github.com/erwinkragt/python-random-quote/actions/workflows/pylint.yml/badge.svg)](https://github.com/erwinkragt/python-random-quote/actions/workflows/pylint.yml)
+
 # Let's Write a Python Quote Bot!
 
 This repository will get you started with building a quote bot in Python. It's meant to be used along with the [Learning Lab](https://lab.github.com) intro to Python.
